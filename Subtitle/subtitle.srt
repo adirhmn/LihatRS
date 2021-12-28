@@ -1,0 +1,1236 @@
+1
+00:00:00,150 --> 00:00:02,180
+Hai
+
+2
+00:00:04,220 --> 00:00:09,690
+assalamualaikum warahmatullahi
+
+3
+00:00:06,170 --> 00:00:12,299
+wabarakatuh perkenalkan saya Adiel
+
+4
+00:00:09,690 --> 00:00:17,009
+Rachman dari mahasiswa program studi
+
+5
+00:00:12,299 --> 00:00:20,730
+ilmu komputer tahun 2016 Saat ini saya
+
+6
+00:00:17,009 --> 00:00:22,890
+sedang mengerjakan atur timer kojek
+
+7
+00:00:20,730 --> 00:00:25,919
+untuk tugas akhir matakuliah yaitu
+
+8
+00:00:22,890 --> 00:00:29,939
+mobile computing ini saya membuat
+
+9
+00:00:25,919 --> 00:00:32,369
+aplikasi yang bernama Alkes RS merupakan
+
+10
+00:00:29,939 --> 00:00:35,550
+aplikasi yang memberikan informasi
+
+11
+00:00:32,369 --> 00:00:38,460
+mengenai adakah rumah sakit yang ada di
+
+12
+00:00:35,550 --> 00:00:40,890
+seluruh Indonesia saya itu aplikasi ini
+
+13
+00:00:38,460 --> 00:00:44,010
+juga memberitahukan informasi mengenai
+
+14
+00:00:40,890 --> 00:00:45,410
+jumlah kamar yang tersedia satu dan juga
+
+15
+00:00:44,010 --> 00:00:48,900
+alamatnya
+
+16
+00:00:45,410 --> 00:00:52,530
+saatnya Pada hari ini saya akan makan
+
+17
+00:00:48,900 --> 00:00:55,100
+bisa testing ada juga berterima kasih
+
+18
+00:00:52,530 --> 00:00:58,410
+kepada tiga orang responden yang sudah
+
+19
+00:00:55,100 --> 00:01:01,450
+bersedia menjadi tester untuk aplikasi
+
+20
+00:00:58,410 --> 00:01:04,860
+chat saya satunya hai hai Sebelumnya
+
+21
+00:01:01,450 --> 00:01:07,240
+Sebelum kita mulai untuk testinya ini
+
+22
+00:01:04,860 --> 00:01:09,010
+mungkin saya persilahkan kepada para
+
+23
+00:01:07,240 --> 00:01:14,200
+responden untuk memperkenalkan dirinya
+
+24
+00:01:09,010 --> 00:01:16,440
+masing-masing bisa dari nama umur dan
+
+25
+00:01:14,200 --> 00:01:21,869
+juga kerjaan
+
+26
+00:01:16,440 --> 00:01:21,869
+baik bisa dimulai dari saudara Komala
+
+27
+00:01:21,900 --> 00:01:29,320
+Oke Perkenalkan nama saya Komala Umur
+
+28
+00:01:26,200 --> 00:01:31,080
+saya sekarang 21 tahun kemudian saya
+
+29
+00:01:29,320 --> 00:01:33,820
+sebagai mahasiswa
+
+30
+00:01:31,080 --> 00:01:38,190
+saya terima kasih kepada saudara pemalak
+
+31
+00:01:33,820 --> 00:01:41,530
+hajatnya kepada saudara Andre dipecahkan
+
+32
+00:01:38,190 --> 00:01:43,720
+Perkenalkan nama saya Andriawan saat ini
+
+33
+00:01:41,530 --> 00:01:45,119
+saya berusia 20 tahun saya sebagai
+
+34
+00:01:43,720 --> 00:01:47,350
+mahasiswa
+
+35
+00:01:45,119 --> 00:01:51,210
+terima kasih kepada saudara Andrea
+
+36
+00:01:47,350 --> 00:01:55,899
+selanjutnya kepada saudari UFA
+
+37
+00:01:51,210 --> 00:01:58,270
+Rich sebelumnya perkenalkan saya lihat
+
+38
+00:01:55,899 --> 00:02:01,070
+pun bisa dipanggil Va saya sekarang
+
+39
+00:01:58,270 --> 00:02:01,930
+adalah seorang mahasiswa umurnya Hai 21
+
+40
+00:02:01,070 --> 00:02:05,270
+tahun
+
+41
+00:02:01,930 --> 00:02:09,340
+Baik terima kasih kepada Komala anda dan
+
+42
+00:02:05,270 --> 00:02:09,340
+juga Ulfa yang sudah bersedia menjadi
+
+43
+00:02:09,489 --> 00:02:16,750
+restore untuk aplikasi saya saat ini
+
+44
+00:02:12,640 --> 00:02:19,970
+Baik Sebelum kita mulai untuk
+
+45
+00:02:16,750 --> 00:02:21,530
+Rp sapi kasihnya perutnya Saya ingin
+
+46
+00:02:19,970 --> 00:02:24,520
+mengajukan beberapa pertanyaan terlebih
+
+47
+00:02:21,530 --> 00:02:28,390
+dahulu disini
+
+48
+00:02:24,520 --> 00:02:30,849
+utama pertanyaan pertama adalah Apakah
+
+49
+00:02:28,390 --> 00:02:34,580
+dalam satu tahun terakhir
+
+50
+00:02:30,849 --> 00:02:37,489
+Apakah Berapa kalikah Anda sering ke
+
+51
+00:02:34,580 --> 00:02:40,780
+rumah sakit mungkin dari saudara Komala
+
+52
+00:02:37,489 --> 00:02:40,780
+bisa dijawab
+
+53
+00:02:41,799 --> 00:02:47,620
+Oh untuk kering tahun ini enggak terlalu
+
+54
+00:02:46,069 --> 00:02:50,420
+sering mungkin
+
+55
+00:02:47,620 --> 00:02:53,709
+sekitar dua-tiga kali pernah volume
+
+56
+00:02:50,420 --> 00:02:57,350
+tahun rumah sakit
+
+57
+00:02:53,709 --> 00:03:00,150
+batia tadi anda menyebutkan tuh
+
+58
+00:02:57,350 --> 00:03:01,939
+sebelumnya sering berarti sering tepas
+
+59
+00:03:00,150 --> 00:03:04,470
+Hai
+
+60
+00:03:01,939 --> 00:03:08,180
+awal sering tuh sekitar sebelum
+
+61
+00:03:04,470 --> 00:03:11,900
+copystrike tahun 1918
+
+62
+00:03:08,180 --> 00:03:14,989
+1-20 awal sering tidak sering-sering
+
+63
+00:03:11,900 --> 00:03:18,090
+karena setiap bulan atau bulan sekali
+
+64
+00:03:14,989 --> 00:03:21,180
+berarti nah seketika senyum copied
+
+65
+00:03:18,090 --> 00:03:22,640
+berarti anda sebuah sekali ke rumah
+
+66
+00:03:21,180 --> 00:03:24,590
+sakit ya
+
+67
+00:03:22,640 --> 00:03:28,700
+Iya betul
+
+68
+00:03:24,590 --> 00:03:31,200
+Makasih tadinya kepada saudara anjing
+
+69
+00:03:28,700 --> 00:03:34,069
+ah Saya sangat sering ke rumah sakit
+
+70
+00:03:31,200 --> 00:03:38,510
+terutama pada tahun ini
+
+71
+00:03:34,069 --> 00:03:41,420
+up itu sekitar aberapa enam kali
+
+72
+00:03:38,510 --> 00:03:44,610
+itu berarti dalam satu tahun terakhir
+
+73
+00:03:41,420 --> 00:03:47,540
+sudah enam kali tidak rumah sakit Hai
+
+74
+00:03:44,610 --> 00:03:49,740
+untuk saudara Oh
+
+75
+00:03:47,540 --> 00:03:51,470
+kalau untuk saya sendiri untuk satu
+
+76
+00:03:49,740 --> 00:03:54,290
+tahun terakhir ini
+
+77
+00:03:51,470 --> 00:03:57,180
+belum pernah ke rumah sakit lagi
+
+78
+00:03:54,290 --> 00:03:59,450
+tapi apakah anda pernah mengantar orang
+
+79
+00:03:57,180 --> 00:04:02,490
+rumah sakit
+
+80
+00:03:59,450 --> 00:04:03,990
+kalau untuk tertentram akhir ini belum
+
+81
+00:04:02,490 --> 00:04:07,110
+pernah tapi kalau misalnya ton
+
+82
+00:04:03,990 --> 00:04:08,570
+kemarin-kemarin pernah pernah berubah
+
+83
+00:04:07,110 --> 00:04:11,690
+kali
+
+84
+00:04:08,570 --> 00:04:15,330
+Makasih ah
+
+85
+00:04:11,690 --> 00:04:18,180
+Apakah anda mengetahui Rumah Sakit apa
+
+86
+00:04:15,330 --> 00:04:22,040
+saja yang ada di sekitar Anda mungkin
+
+87
+00:04:18,180 --> 00:04:22,040
+bisa jos oleh Komala
+
+88
+00:04:22,550 --> 00:04:29,490
+kalau mengetahui karena saya dekatnya
+
+89
+00:04:26,340 --> 00:04:31,680
+tuh kamu budiasih sama pohon tahu sih
+
+90
+00:04:29,490 --> 00:04:33,510
+item-item sih gua rumah sakit yang saya
+
+91
+00:04:31,680 --> 00:04:37,850
+ketahui yang dekat rumah saya karena
+
+92
+00:04:33,510 --> 00:04:37,850
+yang sering dikunjungi itu daerah mana
+
+93
+00:04:38,030 --> 00:04:44,590
+Jakarta Timur
+
+94
+00:04:40,250 --> 00:04:47,620
+Jakarta Timur ya baik untuk lalu Andik
+
+95
+00:04:44,590 --> 00:04:49,920
+nah Apakah anda tahu rumah sakit remas
+
+96
+00:04:47,620 --> 00:04:53,080
+sakit disekitar Anda
+
+97
+00:04:49,920 --> 00:04:55,890
+Iya saya tahu rumah sakit disekitar saya
+
+98
+00:04:53,080 --> 00:05:01,440
+terutama di wilayah Jakarta Timur sih
+
+99
+00:04:55,890 --> 00:05:04,510
+ke-2 Jakarta Timur juga ya oh Ulfah
+
+100
+00:05:01,440 --> 00:05:06,490
+kalau saya tahu gitu karena Emang rumah
+
+101
+00:05:04,510 --> 00:05:08,590
+saya juga deket dari rumah sakit hubung
+
+102
+00:05:06,490 --> 00:05:10,690
+ya ada dua rumah sakit dan gede-gede
+
+103
+00:05:08,590 --> 00:05:13,300
+Rumah Sakit Koja sama rumah sakit
+
+104
+00:05:10,690 --> 00:05:16,570
+Pelabuhan nah di situ Di situ di daerah
+
+105
+00:05:13,300 --> 00:05:19,650
+Jakarta Utara gitu jadi tahu 25 segitu
+
+106
+00:05:16,570 --> 00:05:23,110
+aja hari ini mau
+
+107
+00:05:19,650 --> 00:05:25,290
+terima kasih atas Jawabannya lalu Raban
+
+108
+00:05:23,110 --> 00:05:28,240
+Pertanyaan selanjutnya itu
+
+109
+00:05:25,290 --> 00:05:30,880
+Darimana anda mengetahui jika Rumah
+
+110
+00:05:28,240 --> 00:05:33,370
+Sakit hitung memiliki kamar yang
+
+111
+00:05:30,880 --> 00:05:36,760
+sederhana yang sedang kosong itu atau
+
+112
+00:05:33,370 --> 00:05:38,880
+enggak penuh Apakah ada langsung datang
+
+113
+00:05:36,760 --> 00:05:42,270
+ke rumah sakitnya atau menelponnya
+
+114
+00:05:38,880 --> 00:05:46,250
+produk dari pemalak
+
+115
+00:05:42,270 --> 00:05:48,410
+Nah kalau itu Hai saya belum apa ya
+
+116
+00:05:46,250 --> 00:05:50,660
+belum tahu gitu kamar ada kau ada kamar
+
+117
+00:05:48,410 --> 00:05:52,490
+yang kosong atau enggak ini saya kadang
+
+118
+00:05:50,660 --> 00:05:54,290
+langsung datang dulu kalau misalnya mau
+
+119
+00:05:52,490 --> 00:05:55,970
+ke budiasih saya datang dulu gitu saya
+
+120
+00:05:54,290 --> 00:05:57,710
+enggak tahu ada kamar kosong atau enggak
+
+121
+00:05:55,970 --> 00:06:01,730
+yang penting nanya dulu ke sananya lagi
+
+122
+00:05:57,710 --> 00:06:03,670
+sih Ayah Langsung ke kalau mereka untuk
+
+123
+00:06:01,730 --> 00:06:08,000
+Andre
+
+124
+00:06:03,670 --> 00:06:09,470
+kalau saya untuk tahu Kramat kosongnya
+
+125
+00:06:08,000 --> 00:06:11,390
+itu enggak ada mungkin saya langsung
+
+126
+00:06:09,470 --> 00:06:13,160
+datang ke rumah sakit ah dan menanyakan
+
+127
+00:06:11,390 --> 00:06:16,130
+gitu Bahkan waktu itu ada satu kejadian
+
+128
+00:06:13,160 --> 00:06:18,320
+dimana saya mungkin itu dalam keadaan
+
+129
+00:06:16,130 --> 00:06:20,270
+yang cukup Arjun gitu saya ke rumah
+
+130
+00:06:18,320 --> 00:06:22,550
+sakitnya dan ringnya tak Rumah Sakit
+
+131
+00:06:20,270 --> 00:06:26,330
+udah kalau kayak gitu Padahal disitu
+
+132
+00:06:22,550 --> 00:06:29,470
+perlu perawatan seperti itu baik terima
+
+133
+00:06:26,330 --> 00:06:32,030
+kasih belanja saja kepada Ulfa
+
+134
+00:06:29,470 --> 00:06:33,920
+kalau saya sebenarnya sama kayak tadi
+
+135
+00:06:32,030 --> 00:06:35,810
+sore hari Komala dan saudara keandre
+
+136
+00:06:33,920 --> 00:06:38,030
+biasanya datang langsung gitu ke rumah
+
+137
+00:06:35,810 --> 00:06:40,720
+sakitnya gitu Nanya ke section isinya
+
+138
+00:06:38,030 --> 00:06:43,370
+gitu ada kamar kosong atau enggak gitu
+
+139
+00:06:40,720 --> 00:06:46,319
+berarti yang dapat saya simpulkan itu
+
+140
+00:06:43,370 --> 00:06:47,900
+adek istri ketiganya itu jadi untuk
+
+141
+00:06:46,319 --> 00:06:50,639
+mengetahui apakah
+
+142
+00:06:47,900 --> 00:06:52,439
+tapi emas Kita menyediakan kamar kos
+
+143
+00:06:50,639 --> 00:06:55,250
+atau tidak Itu batil atau datang
+
+144
+00:06:52,439 --> 00:06:57,509
+langsung gitu ya tidak ada istilahnya
+
+145
+00:06:55,250 --> 00:07:00,800
+media yang bisa digunakan untuk
+
+146
+00:06:57,509 --> 00:07:05,569
+mengetahui apakah kamar itu mempunyai
+
+147
+00:07:00,800 --> 00:07:07,740
+kemarin berpindah nah Oke selanjutnya
+
+148
+00:07:05,569 --> 00:07:10,349
+tadi udah pertanyaan awal sudah saya
+
+149
+00:07:07,740 --> 00:07:14,870
+berikan solusinya adalah tahap utama
+
+150
+00:07:10,349 --> 00:07:17,669
+yaitu testing dari aplikasi lihat
+
+151
+00:07:14,870 --> 00:07:19,190
+rs.ris ini sudah tersedia di Google Play
+
+152
+00:07:17,669 --> 00:07:23,430
+Store
+
+153
+00:07:19,190 --> 00:07:26,129
+abshar bisa dicari gitu ya bisa dicari
+
+154
+00:07:23,430 --> 00:07:27,180
+dengan worth lihat RS nanti akan muncul
+
+155
+00:07:26,129 --> 00:07:28,400
+gitu
+
+156
+00:07:27,180 --> 00:07:32,569
+[Musik]
+
+157
+00:07:28,400 --> 00:07:34,860
+Anda bisa mendownloadnya terlebih dahulu
+
+158
+00:07:32,569 --> 00:07:37,580
+ini saya Beri waktu beberapa menit untuk
+
+159
+00:07:34,860 --> 00:07:37,580
+mendownloadnya
+
+160
+00:07:44,590 --> 00:07:47,590
+badges0
+
+161
+00:08:21,840 --> 00:08:25,880
+[Musik]
+
+162
+00:08:32,309 --> 00:08:36,029
+[Musik]
+
+163
+00:08:44,600 --> 00:08:47,630
+hai hai
+
+164
+00:09:17,540 --> 00:09:20,820
+[Musik]
+
+165
+00:09:28,960 --> 00:09:32,059
+[Musik]
+
+166
+00:10:27,130 --> 00:10:30,179
+[Musik]
+
+167
+00:10:44,590 --> 00:10:46,680
+Halo
+
+168
+00:11:12,780 --> 00:11:16,020
+apakah ada yang
+
+169
+00:11:20,160 --> 00:11:27,100
+sudah-sudah
+
+170
+00:11:22,860 --> 00:11:30,270
+rezeki sudah waktunya anda sudah pelaku
+
+171
+00:11:27,100 --> 00:11:33,790
+malah juga sudah baiklah
+
+172
+00:11:30,270 --> 00:11:37,140
+Amukti Jin kita sudah dilihat saya lihat
+
+173
+00:11:33,790 --> 00:11:40,890
+biarkan aplikasinya ya
+
+174
+00:11:37,140 --> 00:11:40,890
+apakah sama tampilannya
+
+175
+00:11:44,600 --> 00:11:48,960
+Hai hey Nah jadi di tampilan awal ini
+
+176
+00:11:47,720 --> 00:11:52,149
+tuh
+
+177
+00:11:48,960 --> 00:11:54,889
+[Musik]
+
+178
+00:11:52,149 --> 00:11:56,750
+eksponen bisa memilih dulu daerah
+
+179
+00:11:54,889 --> 00:11:59,569
+manakah yang ingin mencari informasi
+
+180
+00:11:56,750 --> 00:12:01,850
+rumah sakitnya jadi pilihan provinsi
+
+181
+00:11:59,569 --> 00:12:04,959
+lengkap dari seluruh Indonesia gitu ya
+
+182
+00:12:01,850 --> 00:12:08,569
+Mulai dari Aceh sampai Papua
+
+183
+00:12:04,959 --> 00:12:11,209
+disini bisa pilih salah satunya selain
+
+184
+00:12:08,569 --> 00:12:13,120
+Elisa telah pilih salah satu provinsi
+
+185
+00:12:11,209 --> 00:12:15,740
+selesai memilih
+
+186
+00:12:13,120 --> 00:12:19,790
+Wah kocak didapat atau kabupatennya
+
+187
+00:12:15,740 --> 00:12:22,149
+iCherry misalkan disini saya awan hutan
+
+188
+00:12:19,790 --> 00:12:25,660
+Saya memilih Tadi Provinsi DKI Jakarta
+
+189
+00:12:22,149 --> 00:12:27,980
+dan ini ada muncul
+
+190
+00:12:25,660 --> 00:12:30,519
+kota-kotanya gitu ya saya tulis cepat
+
+191
+00:12:27,980 --> 00:12:30,519
+aja ke timur
+
+192
+00:12:32,050 --> 00:12:36,819
+sini ada muncul daftar rumah sakit yang
+
+193
+00:12:34,699 --> 00:12:36,819
+ada
+
+194
+00:12:37,269 --> 00:12:42,880
+nah ternyata bisa memilih salah satu
+
+195
+00:12:41,000 --> 00:12:46,170
+rumah sakit
+
+196
+00:12:42,880 --> 00:12:48,170
+makan RSPP ledakan ini akan muncul
+
+197
+00:12:46,170 --> 00:12:51,239
+formasi mengenai
+
+198
+00:12:48,170 --> 00:12:53,029
+ahjumma kamar yang kosong kasur jenis
+
+199
+00:12:51,239 --> 00:12:56,939
+kamar yang ada dan juga
+
+200
+00:12:53,029 --> 00:12:58,499
+namanya itu ruangannya juga akan ada
+
+201
+00:12:56,939 --> 00:13:01,399
+informasi menomor teleponnya juga
+
+202
+00:12:58,499 --> 00:13:01,399
+alamatnya juga
+
+203
+00:13:01,549 --> 00:13:07,879
+disini saya beri kesempatan kepada
+
+204
+00:13:04,160 --> 00:13:11,509
+Comment di sekitar Imam aja untuk
+
+205
+00:13:07,879 --> 00:13:15,589
+mengekspor aplikasinya dan mencoba
+
+206
+00:13:11,509 --> 00:13:15,589
+menggunakan selama 5 menit
+
+207
+00:13:18,679 --> 00:13:23,009
+dimulai dari sekarang kau
+
+208
+00:13:44,590 --> 00:13:47,620
+hai hai
+
+209
+00:14:44,600 --> 00:14:46,600
+I
+
+210
+00:15:25,690 --> 00:15:29,690
+love you
+
+211
+00:15:44,579 --> 00:15:46,579
+I
+
+212
+00:16:26,389 --> 00:16:30,389
+hope you
+
+213
+00:16:44,590 --> 00:16:47,590
+badges0
+
+214
+00:17:44,600 --> 00:17:47,600
+mp3juice
+
+215
+00:18:44,580 --> 00:18:46,610
+di
+
+216
+00:19:09,049 --> 00:19:13,789
+sini baik Sudah lima menit
+
+217
+00:19:12,080 --> 00:19:16,409
+Ah
+
+218
+00:19:13,789 --> 00:19:21,450
+bisanya ada pertanyaan lagi akan
+
+219
+00:19:16,409 --> 00:19:22,940
+ditanyakan gitu ya ah sini setelah anda
+
+220
+00:19:21,450 --> 00:19:25,380
+menggunakan opsi ini
+
+221
+00:19:22,940 --> 00:19:26,940
+apakah aplikasi lihat er ini dapat
+
+222
+00:19:25,380 --> 00:19:29,490
+membantu anda untuk menemukan Rumah
+
+223
+00:19:26,940 --> 00:19:33,500
+Sakit Dustira anda dan mengetahui kamar
+
+224
+00:19:29,490 --> 00:19:33,500
+yang tersedia hindari Kemala
+
+225
+00:19:34,639 --> 00:19:38,389
+Aang juga sangat membantu
+
+226
+00:19:38,480 --> 00:19:44,419
+Hanya berupa masalah anda itu udah
+
+227
+00:19:42,120 --> 00:19:47,149
+pembantunya kok dari Andre
+
+228
+00:19:44,419 --> 00:19:50,570
+yo yo sangat membantu sekali karena
+
+229
+00:19:47,149 --> 00:19:52,850
+mungkin bagi kita yang kebingungan Adan
+
+230
+00:19:50,570 --> 00:19:54,230
+dalam situasi yang arjuni ini tuh sangat
+
+231
+00:19:52,850 --> 00:19:55,909
+sangat penting gitu untuk mengetahui
+
+232
+00:19:54,230 --> 00:19:59,629
+apakah Rumah Sakit tersebut tersedia
+
+233
+00:19:55,909 --> 00:20:01,250
+kamar atau tidak seperti itu baik dari
+
+234
+00:19:59,629 --> 00:20:03,900
+Uva
+
+235
+00:20:01,250 --> 00:20:05,490
+saudara-saudari saya sendiri sih bener
+
+236
+00:20:03,900 --> 00:20:07,200
+sih sangat membantu banget karena sejauh
+
+237
+00:20:05,490 --> 00:20:08,700
+ini kan saya cuma tahu rumah sakit yang
+
+238
+00:20:07,200 --> 00:20:10,080
+dekat rumah saya jadi tetapi dengan
+
+239
+00:20:08,700 --> 00:20:13,710
+adanya aplikasi ini saya jadi tapi
+
+240
+00:20:10,080 --> 00:20:16,920
+ternyata out bitch mesin itu ada Banyak
+
+241
+00:20:13,710 --> 00:20:20,120
+ngopi Neng banyak Rumah Sakit klien gua
+
+242
+00:20:16,920 --> 00:20:23,030
+Rumah Sakit saya tahu nanti aku
+
+243
+00:20:20,120 --> 00:20:25,250
+terima kasih berarti aku teknik bisa
+
+244
+00:20:23,030 --> 00:20:27,770
+masuk ke ruangan atau
+
+245
+00:20:25,250 --> 00:20:29,670
+problema daya ketika
+
+246
+00:20:27,770 --> 00:20:32,400
+meninggalkan rumah sakit tapi dia tahu
+
+247
+00:20:29,670 --> 00:20:35,550
+apakah Rumah Sakit tersebut kosong atau
+
+248
+00:20:32,400 --> 00:20:37,890
+tidak teh selanjutnya Apakah informasi
+
+249
+00:20:35,550 --> 00:20:41,420
+yang ditampilkan ada yang disediakan
+
+250
+00:20:37,890 --> 00:20:45,410
+pada aplikasi lihat RS ini sudah cukup
+
+251
+00:20:41,420 --> 00:20:45,410
+baik dari Komala
+
+252
+00:20:48,320 --> 00:20:58,790
+Oh udah udah cukup lebih dari anggrek
+
+253
+00:20:54,440 --> 00:21:00,820
+ah sudah cukup dari
+
+254
+00:20:58,790 --> 00:21:00,820
+Hai
+
+255
+00:21:05,290 --> 00:21:09,970
+apakah informasi yang ditampilkan Sudah
+
+256
+00:21:07,490 --> 00:21:09,970
+Cukup
+
+257
+00:21:10,420 --> 00:21:16,040
+Sudah Cukup
+
+258
+00:21:13,240 --> 00:21:18,680
+Apakah air ada saran untuk aplikasi
+
+259
+00:21:16,040 --> 00:21:22,690
+dilihat rsni untuk pengembangan
+
+260
+00:21:18,680 --> 00:21:22,690
+selanjutnya dari pemalak
+
+261
+00:21:23,920 --> 00:21:29,090
+Oh untuk saran sih apa yang gini kalian
+
+262
+00:21:27,440 --> 00:21:31,700
+nanti kalau misalnya udah bekerjasama
+
+263
+00:21:29,090 --> 00:21:34,400
+langsung Rumah Sakit maupun sosialisasi
+
+264
+00:21:31,700 --> 00:21:37,100
+informasi harakat karena kan pengguna
+
+265
+00:21:34,400 --> 00:21:40,870
+asli dari inikan masyarakat butuh banget
+
+266
+00:21:37,100 --> 00:21:43,540
+kece pulsanya udah cukup bagus
+
+267
+00:21:40,870 --> 00:21:45,440
+dari Andre
+
+268
+00:21:43,540 --> 00:21:48,730
+asal Masih Mungkin lebih
+
+269
+00:21:45,440 --> 00:21:51,010
+disosialisasikan saja pemasyarakat
+
+270
+00:21:48,730 --> 00:21:53,420
+dari Uva
+
+271
+00:21:51,010 --> 00:21:55,360
+Halo saran sih sebenarnya sama tadi
+
+272
+00:21:53,420 --> 00:21:58,490
+harusnya selesaiin terus kalau misalnya
+
+273
+00:21:55,360 --> 00:22:00,570
+saran lagi Ini kan udah bagus banget nih
+
+274
+00:21:58,490 --> 00:22:02,640
+HP nya Tapi kalau bisa ditambahkan
+
+275
+00:22:00,570 --> 00:22:05,310
+terkait informasi fasilitas yang ada di
+
+276
+00:22:02,640 --> 00:22:07,230
+rumah sakit itu boleh mungkin untuk
+
+277
+00:22:05,310 --> 00:22:10,170
+pengembangan selanjutnya kayak gitu dia
+
+278
+00:22:07,230 --> 00:22:13,580
+kita tahu ini ke fasilitas yang susu apa
+
+279
+00:22:10,170 --> 00:22:17,300
+aja biar lebih jelas sekali
+
+280
+00:22:13,580 --> 00:22:21,570
+Terima kasih ada sarannya
+
+281
+00:22:17,300 --> 00:22:24,840
+itu bisa pengembangan selanjutnya kali
+
+282
+00:22:21,570 --> 00:22:29,300
+ini yang terakhir dari rating dari 10
+
+283
+00:22:24,840 --> 00:22:29,300
+berapakah rating yang Anda berikan ini
+
+284
+00:22:33,200 --> 00:22:37,760
+bounds of creating ya
+
+285
+00:22:38,060 --> 00:22:43,970
+teh
+
+286
+00:22:40,700 --> 00:22:46,370
+179 setengah di Indonesia
+
+287
+00:22:43,970 --> 00:22:52,160
+berlari Andre
+
+288
+00:22:46,370 --> 00:22:54,290
+Oh kalau saya dari 1-10 itu 9
+
+289
+00:22:52,160 --> 00:22:58,290
+dari Uva
+
+290
+00:22:54,290 --> 00:22:58,290
+silet hati-hati
+
+291
+00:22:58,780 --> 00:23:07,510
+khas rataan presiden SBY 9,2
+
+292
+00:23:04,020 --> 00:23:08,370
+itu merupakan sekaligus pertanyaan
+
+293
+00:23:07,510 --> 00:23:09,960
+Terakhir
+
+294
+00:23:08,370 --> 00:23:13,870
+Untukmu
+
+295
+00:23:09,960 --> 00:23:15,850
+uji pengguna pada hari ini ayam kampung
+
+296
+00:23:13,870 --> 00:23:19,180
+ucapkan terima kasih atas Tersedianya
+
+297
+00:23:15,850 --> 00:23:22,760
+dari kemarau Andrea jika untuk jadi
+
+298
+00:23:19,180 --> 00:23:24,330
+teste dari akuntansi saya nah
+
+299
+00:23:22,760 --> 00:23:27,760
+[Musik]
+
+300
+00:23:24,330 --> 00:23:30,750
+intro saya akhiri untuk bisa pasti hari
+
+301
+00:23:27,760 --> 00:23:33,190
+ini mohon maaf ke bila ada kesalahan
+
+302
+00:23:30,750 --> 00:23:35,860
+dan semoga mungkin teman-teman gue
+
+303
+00:23:33,190 --> 00:23:38,740
+disini bisa mensukseskan juga aplikasi
+
+304
+00:23:35,860 --> 00:23:41,940
+ini kepada teman-teman yang lainnya nah
+
+305
+00:23:38,740 --> 00:23:43,660
+Yan dari saya terima kasih
+
+306
+00:23:41,940 --> 00:23:46,200
+wassalamualaikum warahmatullahi
+
+307
+00:23:43,660 --> 00:23:47,590
+wabarakatuh Waalaikumsalam
+
+308
+00:23:46,200 --> 00:23:50,970
+Waalaikumsalam Warahmatullahi
+
+309
+00:23:47,590 --> 00:23:50,970
+Wabarakatuh amin
+
