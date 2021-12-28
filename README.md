@@ -3,11 +3,13 @@ I want to make an application that can display a list of hospitals from all over
 
 ## Target
 - People who are looking for a room in the hospital
+- People who have a history of going to the hospital
 
 
 ## Tester
-- Komala
-- Ulfhatun Widiastuti
+- Komala, In the last year, she have been to the hospital twice, the previous year once a month to the hospital.
+- Ulfhatun Widiastuti, In the last two years I have been to the hospital twice.
+- Andre Ferdiawan, In the last year, he has been hospitalized 6 times.
 
 ## Technologu Used
 Android Studio (Java)
